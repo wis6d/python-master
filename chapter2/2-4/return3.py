@@ -1,8 +1,14 @@
 def total(n):
-  if n > 0:
+  if 0 < n < 5:
     total = 0
 
-    for n in range(n + 2):
+    for n in range(n + 1):
+      total += n
+    return total
+  elif n > 5 :
+    total = 0
+
+    for n in range(n * 2):
       total += n
     return total
   else:
