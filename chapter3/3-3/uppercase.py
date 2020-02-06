@@ -1,6 +1,6 @@
 s = '''
 One Little, two little, three little Indians
-Four little, five LITTLE, six LiTTle Indians(f)
+Four little, five LITTLE, six LiTTle Indians
 Seven LittlE, eight little, nine LittLe Indians
 Ten Little Indians.
 '''
